@@ -35,6 +35,9 @@ here we actually use some code to encrypt the private key <br>
  ![m8](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/a09e9fa2-217e-4ea3-bfa1-e04bc991e109)
 
 here we created a new wallet which is new but different <br>
+We do need a private key to stick in here <br>
+
+
 
 
 
