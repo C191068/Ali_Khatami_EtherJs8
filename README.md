@@ -89,6 +89,8 @@ In gitignore we add .encryptedKey.json <br>
 
 We have remove the private key and privete_key_password form the above .env file  <br>
 
+So that password is not hanging around in plain text <br>
+
 
 
 
