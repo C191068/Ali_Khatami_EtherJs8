@@ -18,7 +18,11 @@ If we use it in our .env file we can encrypt it  <br>
 
  which only we know <br>
 
- 
+ ![m6](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/e9b27549-28c1-4ef7-a9b1-0c093fe2a4ea)
+
+For that we create a new file like the above <br>
+
+
 
 
  
