@@ -129,6 +129,8 @@ Here in the above we pass the encrypted.json file and the password
  
 Now if we run our akrkdeploy.js with our private key password <br>
 
+as an environment variable <br>
+
 
 
  
