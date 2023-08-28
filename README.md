@@ -26,6 +26,10 @@ here we actually use some code to encrypt the private key <br>
 
 
 
+![m7](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/b257b89f-1b73-40a7-87ae-37e8e0420fc6)
+
+ So we gonna set this script to run our encrypt key one time <br>
+
 
  
 
