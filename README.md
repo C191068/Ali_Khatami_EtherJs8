@@ -112,7 +112,7 @@ The above ```fs.readFileSync``` is gonna read from ```encryptedKey.json``` into 
 
 now we gonna create a wallet from this encrypted key in the above way <br>
 
-
+Here in the above we pass the encrypted.json file and the password 
 
  
  
