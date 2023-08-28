@@ -67,6 +67,10 @@ if somebody gets into aour account and see the above they will have <br>
 to know the password to decypt these json object back into private key <br>
 
 
+![m13](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/f3ab5f06-36bd-4e17-8e0c-f84e63758432)
+
+We are saving it to a new file ```.encryptedKey.json``` and we are passing it this <br>
+encrypted key i.e encryptedJsonKey that we just made <br>
 
 
 
