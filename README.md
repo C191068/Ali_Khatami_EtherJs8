@@ -41,6 +41,10 @@ We do need a private key to stick in here <br>
 ![m9](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/06c5b07f-a772-4e7d-95cb-3bbeb3058033)
 
 Thsi encypt function gonna return encryptedJsonKey <br>
+that we can store locally and can can only decrypt it <br>
+with password <br>
+
+
 
 
 
