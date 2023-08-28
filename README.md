@@ -98,6 +98,8 @@ Now in our deploy script we can change the way we actually get the wallet <br>
 
 we are getting the wallet by passing the private key like the above <br>
 
+But we are not gonna do this <br>
+
 
 
 
