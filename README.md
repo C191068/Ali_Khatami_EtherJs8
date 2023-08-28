@@ -118,6 +118,9 @@ Here in the above we pass the encrypted.json file and the password
  back to our provider <br>
 
  
+ If we look at the above mentioned arrow we are not connecting our wallet <br>
+ back to our provider <br>
+
  
 
 
