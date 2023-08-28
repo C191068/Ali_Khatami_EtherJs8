@@ -94,6 +94,10 @@ So that password is not hanging around in plain text <br>
 
 Now in our deploy script we can change the way we actually get the wallet <br>
 
+![m18](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/361950b5-5559-4375-af4e-7bc288d21327)
+
+we are getting the wallet by passing the private key like the above <br>
+
 
 
 
