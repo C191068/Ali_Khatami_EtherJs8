@@ -109,6 +109,9 @@ For that we use the above line of code <br>
 The above ```fs.readFileSync``` is gonna read from ```encryptedKey.json``` into this ```const encryptedJson``` <br>
 
 
+now we gonna create a wallet from this encrypted key <br>
+
+
 
  
  
