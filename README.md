@@ -32,7 +32,11 @@ here we actually use some code to encrypt the private key <br>
  And they we gonna remove our private form anywhere in workspace <br>
  So that it is no longer in plaintext anywhere <br>
 
- 
+ ![m8](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/a09e9fa2-217e-4ea3-bfa1-e04bc991e109)
+
+here we created a new wallet which is new but different <br>
+
+
 
  
  
