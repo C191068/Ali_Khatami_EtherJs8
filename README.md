@@ -92,6 +92,8 @@ We have remove the private key and privete_key_password form the above .env file
 So that password is not hanging around in plain text <br>
 
 
+Now in our deploy script we can change the way we actually get the wallet <br>
+
 
 
 
