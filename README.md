@@ -106,6 +106,8 @@ We gonna use our encrypted key that we just created <br>
 
 For that we use the above line of code <br>
 
+The above ```fs.readFileSync``` is gonna read from ```encryptedKey.json``` <br>
+
 
 
  
