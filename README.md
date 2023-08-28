@@ -22,6 +22,8 @@ If we use it in our .env file we can encrypt it  <br>
 
 For that we create a new file like the above <br>
 
+here we actually use some code to encrypt the private key <br>
+
 
 
 
