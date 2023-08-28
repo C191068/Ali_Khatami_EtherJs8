@@ -44,6 +44,10 @@ Thsi encypt function gonna return encryptedJsonKey <br>
 that we can store locally and can can only decrypt it <br>
 with password <br>
 
+It takes two parameter one is PRIVATEKEY and another 9is PRIVATE_KEY password <br>
+
+
+
 
 
 
