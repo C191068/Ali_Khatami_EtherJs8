@@ -46,6 +46,9 @@ with password <br>
 
 It takes two parameter one is PRIVATEKEY and another 9is PRIVATE_KEY password <br>
 
+![m10](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/6ab455b5-7212-4630-ad24-df41af68063d)
+
+here we created a password at .env file <br>
 
 
 
