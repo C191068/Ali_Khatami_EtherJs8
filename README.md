@@ -108,7 +108,8 @@ For that we use the above line of code <br>
 
 The above ```fs.readFileSync``` is gonna read from ```encryptedKey.json``` into this ```const encryptedJson``` <br>
 
-![m20](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/4bf3a0df-e841-427b-b48a-6fd4a9aa0892)
+![m22](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/050b3291-204b-42e8-b7cf-9e62a1a2214f)
+
 
 now we gonna create a wallet from this encrypted key in the above way <br>
 
