@@ -114,6 +114,9 @@ now we gonna create a wallet from this encrypted key in the above way <br>
 
 Here in the above we pass the encrypted.json file and the password 
 
+ the resaon we use let in the above becaues we have to connect this wallet <br>
+ back to our provider <br>
+
  
  
 
