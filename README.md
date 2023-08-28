@@ -30,6 +30,9 @@ here we actually use some code to encrypt the private key <br>
 
  So we gonna set this script to run our encrypt key one time <br>
  And they we gonna remove our private form anywhere in workspace <br>
+ So that it is no longer in plaintext anywhere <br>
+
+ 
 
  
  
