@@ -73,6 +73,13 @@ We are saving it to a new file ```.encryptedKey.json``` and we are passing it th
 encrypted key i.e encryptedJsonKey that we just made <br>
 
 
+![m14](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/f63efacd-05be-43ed-a03f-d5b348759806)
+
+Now we run the code at console shown with white arrow we see a new file .encryptedKey.json shown with <br>
+yellow arrow is created <br>
+
+
+
 
 
 
