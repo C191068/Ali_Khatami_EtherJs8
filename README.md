@@ -8,6 +8,11 @@ So what we can do we can add private key in our RPC URL <br>
 
 as our environment variables right in the command line <br>
 
+If we use it in our .env file we can encrypt it <br>
+
+
+
+
 
 
 
