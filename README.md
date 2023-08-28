@@ -14,6 +14,11 @@ If we use it in our .env file we can encrypt it  <br>
  Now in that way if somebody does get into our account <br>
 
  our private key is not sitting in plain text <br>
+ It is encrypted and to decrypt it requires password <br>
+
+ which only we know <br>
+
+ 
 
 
  
