@@ -127,6 +127,8 @@ Here in the above we pass the encrypted.json file and the password
  For that we use the above line of code <br>
 
  
+Now if we run our akrkdeploy.js with our private key password <br>
+
 
 
  
