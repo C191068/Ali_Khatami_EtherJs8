@@ -63,6 +63,9 @@ these Json object shown with yellow arrow is what our key looks like encrypted  
 
 In order everything in the above like address, id are all the encrypted  version of the key <br>
 
+if somebody gets into aour account and see the above they will have <br>
+to know the password to decypt these <br>
+
 
 
 
