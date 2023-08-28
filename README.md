@@ -11,6 +11,13 @@ as our environment variables right in the command line <br>
 If we use it in our .env file we can encrypt it  <br>
  and store our encrypted key locally <br>
 
+ Now in that way if somebody does get into our account <br>
+
+ our private key is not sitting in plain text <br>
+
+
+ 
+
 
  
 
