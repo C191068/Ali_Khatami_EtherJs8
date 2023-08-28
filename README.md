@@ -78,6 +78,9 @@ encrypted key i.e encryptedJsonKey that we just made <br>
 Now we run the code at console shown with white arrow we see a new file .encryptedKey.json shown with <br>
 yellow arrow is created <br>
 
+![m15](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/8f7013ab-4863-4efe-a98a-dc986c92a132)
+we can see here encrypted key <br>
+
 
 
 
