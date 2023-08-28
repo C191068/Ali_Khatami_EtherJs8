@@ -133,6 +133,28 @@ Now if we run our akrkdeploy.js with our private key password <br>
 as an environment variable it should still deploy  <br>
 
 
+![m23](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/ef15b075-1908-4826-a0f5-3462c88a17b4)
+
+We have corrected at let wallet part shown with white arrow <br>
+thus we have sucessfully deployed shown with yeloow arrow <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
