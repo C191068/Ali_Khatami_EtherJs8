@@ -1,4 +1,4 @@
-![image](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/ad6a4cdd-6bdc-4739-a15f-5b11065593cd)# Ali_Khatami_Etherjs8(Learning from the video of Patrick Collins)
+# Ali_Khatami_Etherjs8(Learning from the video of Patrick Collins)
 
 ### Better private Key Management
 
