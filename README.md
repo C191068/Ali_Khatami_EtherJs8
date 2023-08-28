@@ -85,9 +85,9 @@ we can see here encrypted key <br>
 
 In gitignore we add .encryptedKey.json <br>
 
-![m17](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/de01557b-7eb6-406c-b585-bdda7da84790)
+![m17](https://github.com/C191068/Ali_Khatami_EtherJs8/assets/89090776/b2efa71e-27a0-49b7-8725-c31dd34b1d37)
 
-We have remove the private key <br>
+We have remove the private key and privete_key_password form the above .env file  <br>
 
 
 
